@@ -1,0 +1,1 @@
+Hello everyone! I am currently studying in IISER Pune and am part of the 2030 batch. I was inspired to create my GitHub account to start my own blog, but I will also be using it to document some of my other projects. Do check out my blog if you haven't already!
